@@ -1,0 +1,15 @@
+{
+  "renderSettings":{
+    "Window":{
+      "show":{
+        "__type":"bool",
+        "value":false
+      },
+      "size":{
+        "__type":"vec2",
+        "x":800,
+        "y":600
+      }
+    }
+  }
+}
